@@ -16,6 +16,7 @@ public class Printf_Demo
 		System.out.println("The addition of " + num1 + " and " + num2 + " is " + add);
 		System.out.printf("The addition of %d and %d is %d\n", num1, num2, add);
 
+		System.out.println("End of program");
 	}
 	// end main
 }
